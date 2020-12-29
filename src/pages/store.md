@@ -22,4 +22,5 @@ sections:
       url: /store
       style: secondary
 template: store
+white_header: true
 ---
